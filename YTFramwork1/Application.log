@@ -1,0 +1,37 @@
+2021-01-14 06:22:04  [TC1] (main:) Login successfully for Test case1
+2021-01-15 03:59:48  [TC1] (main:) Login successfully for Test case1
+2021-01-15 04:05:10  [TC1] (main:) Login successfully for Test case1
+2021-01-15 10:21:07  [TC1] (main:) Login successfully for Test case1
+2021-01-15 10:23:38  [TC1] (main:) Login successfully for Test case1
+2021-01-15 10:25:50  [TC1] (main:) org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//yt-formatted-string[text()='Sign out']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-V6KFFFL', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: driver.version: RemoteWebDriver
+2021-01-16 04:57:57  [TC1] (main:) org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-V6KFFFL', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Khatib\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50020}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a2be90bf594223b3a40091a70eb11a1f
+2021-01-16 05:11:41  [TC1] (main:) Login successfully for Test case1
+2021-01-16 05:14:48  [TC1] (main:) org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-V6KFFFL', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Khatib\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50103}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 8d5eb37bdf2fd57b1c746c4a956825c4
+2021-01-16 05:24:08  [TC1] (main:) Login successfully for Test case1
+2021-01-16 05:31:03  [TC1] (main:) Login successfully for Test case1
+2021-01-16 05:36:00  [TC1] (main:) org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-V6KFFFL', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\Khatib\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3764f96d7d95b56870099d7e046ad417
+2021-01-18 09:56:49  [TC1] (main:) Login successfully for Test case1
+2021-01-18 11:16:20  [TC1] (main:) Login successfully for Test case1
+2021-01-18 11:39:55  [TC1] (main:) Login successfully for Test case1

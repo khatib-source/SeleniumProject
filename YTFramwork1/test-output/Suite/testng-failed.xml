@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="org.testing.Testscripts.TC5">
+        <methods>
+          <include name="TestCase5"/>
+        </methods>
+      </class> <!-- org.testing.Testscripts.TC5 -->
+      <class name="org.testing.Testscripts.TC3">
+        <methods>
+          <include name="TestCase3"/>
+        </methods>
+      </class> <!-- org.testing.Testscripts.TC3 -->
+      <class name="org.testing.Testscripts.TC6">
+        <methods>
+          <include name="TestCase6"/>
+        </methods>
+      </class> <!-- org.testing.Testscripts.TC6 -->
+      <class name="org.testing.Testscripts.TC8">
+        <methods>
+          <include name="TestCase8"/>
+        </methods>
+      </class> <!-- org.testing.Testscripts.TC8 -->
+      <class name="org.testing.Testscripts.TC1">
+        <methods>
+          <include name="initi"/>
+          <include name="TestCase1"/>
+        </methods>
+      </class> <!-- org.testing.Testscripts.TC1 -->
+      <class name="org.testing.Testscripts.TC2">
+        <methods>
+          <include name="TestCase1"/>
+        </methods>
+      </class> <!-- org.testing.Testscripts.TC2 -->
+      <class name="org.testing.Testscripts.TC4">
+        <methods>
+          <include name="TestCase4"/>
+        </methods>
+      </class> <!-- org.testing.Testscripts.TC4 -->
+      <class name="org.testing.Testscripts.TC7">
+        <methods>
+          <include name="TestCase7"/>
+        </methods>
+      </class> <!-- org.testing.Testscripts.TC7 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
